@@ -71,7 +71,7 @@ It should gereate output similar to this:
 - Download and install [Android Studio](https://developer.android.com/studio).
 - Run Android Studio, and go through the 'Android Studio Setup Wizard'. This installs the latest Android SDK and its tools which are required by Flutter when developing for Android.
 
-Now you are ready to start learn flutter!
+Now you are ready to learn flutter!
 
 # Resources to start learning Flutter
 
